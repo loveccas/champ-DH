@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -O3 "CMakeFiles/dlmu-dog.dir/main.cpp.o" "CMakeFiles/dlmu-dog.dir/src/run.cpp.o" -o dlmu-dog   -L/home/lzt404/dog_xrb_with_udp/lib  -Wl,-rpath,/home/lzt404/dog_xrb_with_udp/lib -lUnitreeMotorSDK_M80106_Arm64 -ludp 
